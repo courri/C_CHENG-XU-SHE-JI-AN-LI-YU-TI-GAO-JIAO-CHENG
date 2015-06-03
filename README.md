@@ -1,6 +1,11 @@
 # C_CHENG-XU-SHE-JI-AN-LI-YU-TI-GAO-JIAO-CHENG
 C程序设计案例与提高教程(第2版)   作者：王金鹏 肖进杰
 
+可能你需要阅读这个网页：
+[How to use graphics.h in codeblocks?](http://stackoverflow.com/questions/20313534/how-to-use-graphics-h-in-codeblocks)
+书籍购买??[C程序设计案例与提高教程(第2版)   作者：王金鹏 肖进杰](http://product.dangdang.com/23691693.html)
+
+
 ``` cpp
 第1章C语言标准及常用编译器介绍3
 1.1C语言标准介绍3
