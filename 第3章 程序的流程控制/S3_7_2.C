@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{int  m, n, i;
+ scanf("%d,%d", &m, &n);
+ if( m < n )
+   {                    /*如果m<n则交换m、n*/
+    m = m + n;
+    n = m - n;
+    m = m - n;
+   }
+ for (i = m; i <= m*n; i += m)
+   {
+    if( i%n == 0)
+      break;                  /*若除以n除尽，意味着已找到最小公倍数，跳出循环输出结果*/
+   }
+ printf("%d和%d的最小公倍数是:%d\n", m,n,i);
+ return 0;
+}
+
